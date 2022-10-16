@@ -1,11 +1,81 @@
-.container {
-  width: 1170px;
-  padding: 0 15px;
-  margin: auto;
+h1 {
+ color: red;
+font-size: 50px;
+   font-family: serif;
+   background-color: antiquewhite;
+   height: 80px;
+   margin-top: 0px;
+   margin-bottom: 0px;
 }
-.top-wrapper {
-  padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top.png);
-  color:white;
-  background-size: cover;
+/*フォント名にスペースがある場合は、ダブルクォーテーションで囲みます。*/
+img {
+   height: 300px;
+   width: 229px;
+}
+.selected {
+   color: red;
+}
+.header {
+
+   background-color:rgb(247, 160, 203);
+   height: 50px;
+
+}
+.logo1 {
+   color:aliceblue;
+   font-size: 30px;
+   font-family: serif;
+   /*padding-top,bottom,right,leftもある*/
+   padding-left: 10px;
+   float:left;
+
+}
+   .header-list li{
+      font-size: 10px;
+      color:aliceblue;
+      float: left;
+      list-style: none;
+      padding: 20px 10px 15px 50px;
+   }
+.main {
+   background-color: aliceblue;
+   height: px;
+}
+.section-title {
+   border-bottom: 2px solid #dee7ec;
+   margin-top: 10px;
+   margin-bottom: 20px;
+}
+.contact-form p {
+   font-size: 10px;
+}
+   span {
+      color:rgb(247, 160, 203);
+   }
+.contact-submit {
+   width: 166px;
+}
+.footer {
+   background-color: rgba(247, 160, 204, 0.905);
+   height: 95px;
+   padding-left: 10px; 
+
+}
+.footer-logo {
+   color:aliceblue;
+   font-size: 30px;
+   font-family: serif;
+   padding-left: 10px;
+   float: left;
+   }
+.footer-list {
+   color:aliceblue;
+   font-size: 13px;
+   float: right; 
+   padding-top: 8px;
+   padding-right: 14px;
+}
+.footer-list li{
+   list-style: none;
+
 }
