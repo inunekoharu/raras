@@ -16,12 +16,11 @@ img {
 .selected {
    color: red;
 }
-.container {
-   width: 100%;
-}
+
 .header {
    background-color:rgb(247, 160, 203);
    height: 50px;
+   width: 100%;
    position: fixed;
    top: 0px;
    z-index: 10;
