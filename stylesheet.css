@@ -4,7 +4,7 @@ font-size: 50px;
    font-family: serif;
    background-color: antiquewhite;
    height: 80px;
-   margin-top: 100px;
+   margin-top: 50px;
    margin-bottom: 0px;
 }
 /*フォント名にスペースがある場合は、ダブルクォーテーションで囲みます。*/
@@ -44,8 +44,8 @@ img {
    }
 .main {
    background-color: aliceblue;
-   height: px;
-}
+   margin-top: 50px;
+   }
 .section-title {
    border-bottom: 2px solid #dee7ec;
    margin-top: 10px;
