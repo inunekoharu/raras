@@ -41,7 +41,7 @@ h1 {
  }
     .header-list li{
        font-size: 10px;
-       float: right;
+       float: left;
        list-style: none;
        color:aliceblue;
        padding-right: 25px;
