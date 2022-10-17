@@ -40,7 +40,7 @@ img {
       color:aliceblue;
       float: left;
       list-style: none;
-      padding: 20px 10px 15px 50px;
+      padding: 20px 0;
    }
 .main {
    background-color: aliceblue;
