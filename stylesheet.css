@@ -39,7 +39,10 @@ img {
       float: left;
       list-style: none;
       line-height: 50px;
-      
+      list-style-type:none;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    padding-inline-start: 0px;
    }
 .main {
    background-color: aliceblue;
