@@ -20,7 +20,8 @@ img {
 
    background-color:rgb(247, 160, 203);
    height: 50px;
-  position: fixed;
+   position: fixed;
+   top: 0px;
 
 }
 .logo1 {
