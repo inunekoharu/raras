@@ -33,13 +33,14 @@ img {
    /*padding-top,bottom,right,leftもある*/
    padding-left: 10px;
    float:left;
+   line-height: 50px;
 }
    .header-list li{
       font-size: 10px;
       float: left;
-      text-align: right;
       list-style: none;
-      padding: 20px 0;
+      line-height: 50px;
+      
    }
 .main {
    background-color: aliceblue;
