@@ -38,7 +38,7 @@ img {
    .header-list li{
       font-size: 10px;
       color:aliceblue;
-      float: left;
+      float: right;
       list-style: none;
       padding: 20px 0;
    }
