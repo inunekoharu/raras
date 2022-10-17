@@ -17,28 +17,25 @@ img {
    color: red;
 }
 .header {
-
    background-color:rgb(247, 160, 203);
    height: 50px;
    width: 100%;
    position: fixed;
    top: 0px;
    z-index: 10;
-
+   color:aliceblue;
 }
 .logo1 {
-   color:aliceblue;
    font-size: 30px;
    font-family: serif;
    /*padding-top,bottom,right,leftもある*/
    padding-left: 10px;
    float:left;
-
 }
    .header-list li{
       font-size: 10px;
-      color:aliceblue;
-      float: right;
+      float: left;
+      text-align: right;
       list-style: none;
       padding: 20px 0;
    }
