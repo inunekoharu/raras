@@ -36,15 +36,14 @@ h1 {
     float:left;
     color:aliceblue;
     padding-left: 15px;
+    padding-right: 50px;
  }
     .header-list li{
        font-size: 10px;
-       float: right;
        list-style: none;
        color:aliceblue;
-       padding-left: 25px;
-       padding-right: 30px;
-       display: inline-block;
+       padding-left: 50px;
+       display: inline;
     }
  .main {
     background-color: aliceblue;
