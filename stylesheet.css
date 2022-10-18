@@ -35,9 +35,7 @@ h1 {
     /*padding-top,bottom,right,leftもある*/
     float:left;
     color:aliceblue;
-    padding-left: 10px;
-    padding-right: 100px;
-
+    padding-left: 15px;
  }
     .header-list li{
        font-size: 10px;
@@ -45,6 +43,8 @@ h1 {
        list-style: none;
        color:aliceblue;
        padding-left: 25px;
+       padding-right: 25px;
+       display: inline;
     }
  .main {
     background-color: aliceblue;
