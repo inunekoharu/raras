@@ -1,5 +1,5 @@
 body {
-  max-width: 100%;
+  margin: 0 auto;
 }
 h1 {
   color: red;
@@ -23,11 +23,11 @@ h1 {
  .header {
     background-color:rgb(247, 160, 203);
     height: 50px;
-    
+    width: 100%;
     position: fixed;
     top: 0px;
     z-index: 10;
-    
+
   }
  .logo1 {
     font-size: 30px;
@@ -44,7 +44,6 @@ h1 {
        list-style: none;
        color:aliceblue;
        padding-right: 25px;
-      display: inline-block;
     }
  .main {
     background-color: aliceblue;
