@@ -44,7 +44,7 @@ h1 {
        color:aliceblue;
        padding-left: 25px;
        padding-right: 30px;
-       display: inline;
+       display: inline-block;
     }
  .main {
     background-color: aliceblue;
