@@ -36,6 +36,7 @@ h1 {
     float:left;
     color:aliceblue;
     padding-left: 10px;
+    padding-right: 100px;
 
  }
     .header-list li{
@@ -43,7 +44,7 @@ h1 {
        float: right;
        list-style: none;
        color:aliceblue;
-       padding-right: 25px;
+       padding-left: 25px;
     }
  .main {
     background-color: aliceblue;
